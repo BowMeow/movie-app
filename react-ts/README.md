@@ -53,8 +53,8 @@ VITE_API_KEY=5QMMYJJ-9VQM93Y-GX4AFYQ-CN73TAK
 ## Структура проекта
 
 src/
- |-api/
- |-components/
- |-hooks/
- |-pages/
- |-types/
+ |- api/
+ |- components/
+ |- hooks/
+ |- pages/
+ |- types/
